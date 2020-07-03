@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>Terms & Conditions</title>
+<title>Termes & Conditions</title>
 <style>
 body{
 	font-family: Arial, Helvetica, sans-serif;
@@ -25,382 +25,165 @@ a{ color:#333;}
     
 <body>
 
-<h1>Terms & Conditions</h1>
-<p>By placing an order through this website, you agree to the terms and conditions set for the below.
-Please read through these terms carefully before placing your order and print a copy for future
-reference. Please also read our Privacy Policy regarding personal information provided by you,
-which is incorporated herein by reference.</p>
+<h1>Termes & Conditions</h1>
+<p>En passant une commande via ce site Web, vous acceptez les termes et conditions définis ci-dessous.
+Veuillez lire attentivement ces conditions avant de passer votre commande et imprimer une copie pour référence future.
+Veuillez également lire notre politique de confidentialité concernant les informations personnelles que vous avez fournies, qui sont incorporées ici par référence.</p>
 
-<h2>Health Disclaimer</h2>
+<h2>Avertissement de santé</h2>
 
-<p>Any statements on this site or any materials or supplements distributed or sold by has not been
-evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat,
-cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a history of
-heart conditions we suggest consulting with a physician before using any of our products. The
-results on all products are not typical and not everyone will experience these results.</p>
+<p>Toute déclaration sur ce site ou tout matériel ou supplément distribué ou vendu par n'a pas été évalué par la Food and Drug Administration.
+Ce produit n'est pas destiné à diagnostiquer, traiter, guérir ou prévenir une maladie. Si vous êtes enceinte, allaitez, prenez des médicaments ou avez des antécédents de problèmes cardiaques, nous vous suggérons de consulter un médecin avant d'utiliser l'un de nos produits.
+Les résultats sur tous les produits ne sont pas typiques et tout le monde ne connaîtra pas ces résultats.</p>
 
-<h2>Shipping/Return/Refund Policy</h2>
+<h2>Expédition/Retour/Politique de remboursement</h2>
 
 
-<p>Order are shipped within 24 hours of payment via UPS. Tracking number is provided for all shipments. Customers can expect delivery within 2-3 days of receiving their tracking number. If for any reason you are unsatisfied with your purchase, we offer a full 30-day moneyback guarantee on all purchases. In order to obtain your refund, contact customer service by phone and obtain an Return
-Merchandise Authorization ("RMA") number to place on your package. Write this number on the
-outside of the shipping package, and send the unopened product back to our fulfillment center at
-the address listed below within 30 days of the date you originally ordered the product. In order
-for your refund to be processed the product must arrive at our fulfillment center within 30 days
-of the original purchase date. You pay for return shipping. Once the package is received, you will be issued a
-refund. Your refund will be credited back to your bank account, and may take up to 7-10 business
-days to show in your statement, depending on the speed of the processing bank.  Any
-discount or refund agreed upon with any of our customer service representatives is considered a
-final sale.</p>
+<p>Les commandes sont expédiées dans les 24 heures suivant le paiement via UPS. Le numéro de suivi est fourni pour toutes les expéditions. Les clients peuvent s'attendre à une livraison dans les 2-3 jours suivant la réception de leur numéro de suivi. Si, pour une raison quelconque, vous n'êtes pas satisfait de votre achat, nous offrons une garantie de remboursement complète de 30 jours sur tous les achats. Afin d'obtenir votre remboursement, contactez le service client par téléphone et obtenez un numéro d'autorisation de retour de marchandise («RMA») à placer sur votre colis.
+Écrivez ce numéro à l'extérieur de l'emballage d'expédition et renvoyez le produit non ouvert à notre centre de traitement des commandes à l'adresse indiquée ci-dessous dans les 30 jours suivant la date à laquelle vous avez commandé le produit.
+Pour que votre remboursement soit traité, le produit doit arriver à notre centre de traitement des commandes dans les 30 jours suivant la date d'achat d'origine. Vous payez les frais de retour.
+Une fois le colis reçu, vous serez remboursé. Votre remboursement sera crédité sur votre compte bancaire et peut prendre jusqu'à 7 à 10 jours ouvrables pour apparaître dans votre relevé, en fonction de la vitesse de la banque de traitement.
+Toute remise ou remboursement convenu avec l'un de nos représentants du service client est considéré comme une vente finale.</p>
 
 <p>Email:<a href="mailto:support@ultimatecbdlabs.com"> support@ultimatecbdlabs.com</a></p>
-<p>Toll Free Customer Service phone: 1.877.882.1216</p>
+<p>Téléphone du service client gratuit: 1.877.882.1216</p>
 
-<h2>TERMS OF SERVICE</h2>
+<h2>CONDITIONS D'UTILISATION</h2>
 
-<p>This Terms of Service ("TOS") is a legally binding agreement made by and
-between ("we" or "us") and you, personally and, if applicable, on behalf of
-the entity for whom you are using this web site (collectively, "you"). This
-TOS governs your use of the web site ("Web Site") and the services we
-offer on the Web Site ("Services"), so please read it carefully. BY
-ACCESSING OR USING ANY PART OF THE WEB SITE, YOU AGREE
-THAT YOU HAVE READ, UNDERSTAND AND AGREE TO BE BOUND
-BY THIS TOS. IF YOU DO NOT AGREE TO BE SO BOUND, DO NOT
-ACCESS OR USE THE WEB SITE.INTERNET TECHNOLOGY AND THE
-APPLICABLE LAWS, RULES, AND REGULATIONS CHANGE
-FREQUENTLY. ACCORDINGLY, WE RESERVE THE RIGHT TO MAKE
-CHANGES TO THIS TOS AT ANY TIME. YOUR CONTINUED USE OF
-THE WEB SITE CONSTITUTES ASSENT TO ANY NEW OR MODIFIED
-PROVISION OF THIS TOS THAT MAY BE POSTED ON THE WEB SITE.
-1. Using the Web Site.(a) Eligibility. Except as expressly provided below,
-Services may only be used by, and Membership is limited to, individuals
-who can form legally binding contracts under applicable law. Without
-limitation, minors are prohibited from becoming Members and, except as
-specifically provided below, using fee-based Services. Membership is
-defined by engaging in a purchase agreement with wherein you, the
-consumer purchase one of the products found on the Web Site.(b)
-Compliance. You must comply with all of the terms and conditions of this
-TOS, the policies referred to below, and all applicable laws, regulations
-and rules when you use the Web Site.(c) License and Restrictions. Subject
-to the terms and conditions of this TOS, you are hereby granted a limited,
-non-exclusive right to use the content and materials on the Web Site in the
-normal course of your use of the Web Site. You may not use any third
-party intellectual property without the express written permission of the
-applicable third party, except as permitted by law. The Website will retain
-ownership of its intellectual property rights and you may not obtain any
-rights therein by virtue of this TOS or otherwise, except as expressly set
-forth in this TOS. You will have no right to use, copy, display, perform,
-create derivative works from, distribute, have distributed, transmit or
-sublicense from materials or content available on the Web Site, except as
-expressly set forth in this TOS. You may not attempt to reverse engineer
-any of the technology used to provide the Services.(d) Prohibited Conduct.
-In your use of the Web Site and the Services, you may not: (i) infringe any
-patent, trademark, trade secret, copyright, right of publicity or other right of
-any party; (ii) defame, abuse, harass, stalk any individual, or disrupt or
-interfere with the security or use of the Services, the Web Site or any web
-sites linked to the Web Site; (iii) interfere with or damage the Web Site or
-Services, including, without limitation, through the use of viruses, cancel
-bots, Trojan horses, harmful code, flood pings, denial of service attacks,
-packet or IP spoofing, forged routing or electronic mail address information
-or similar methods or technology; (iv) attempt to use another user's
-account, impersonate another person or entity, misrepresent your
-affiliation with a person or entity, including (without limitation) the Website
-or create or use a false identity; (v) attempt to obtain unauthorized access
-to the Web Site or portions of the Web Site that are restricted from general
-access; (vi) engage, directly or indirectly, in transmission of "spam," chain
-letters, junk mail or any other type of unsolicited solicitation; (vii) collect,
-manually or through an automatic process, information about other users
-without their express consent or other information relating to the Web Site
-or the Services; (viii) use any meta tags or any other "hidden text" utilizing
-the name, trademarks, or product names; (ix)
-advertise, offer to sell, or sell any goods or services, except as expressly
-permitted by the Website; (x) engage in any activity that interferes with any
-third party's ability to use or enjoy the Web Site or Services; or (xi) assist
-any third party in engaging in any activity prohibited by this TOS.(e) Other
-Users. If you become aware of any conduct that violates this TOS, We
-encourage you to contact Customer Service. We reserve the right, but will
-have no obligation, to respond to such communications.2. Your Content.
-(a) License. By posting, storing, or transmitting any content on or to the
-Website, you hereby grant us a perpetual, worldwide, non-exclusive,
-royalty-free, sub-licensable, right and license to use, copy, display,
-perform, create derivative works from, distribute, have distributed, transmit
-and sublicense such content in any form, in all media now known or
-hereinafter created, anywhere in the world. You hereby irrevocably waive
-any claims based on moral rights or similar theories, if any.(b)
-Objectionable Content. We do not have the ability to control the nature of
-the user-generated content offered through the Web Site. You are solely
-responsible for your interactions with other users of the Web Site and any
-content that you post. We will not be liable for any damage or harm
-resulting from any content or your interactions with other users of the Web
-Site. We reserve the right, but have no obligation, to monitor interactions
-between you and other users of the Web Site and take any other action to
-restrict access to or the availability of any material that we or another user
-of the Web Site may consider to be obscene, lewd, lascivious, filthy,
-excessively violent, harassing or otherwise objectionable (including,
-without limitation, because it violates this TOS).</p>
+<p>Les présentes conditions d'utilisation («CGU») sont un accord juridiquement contraignant conclu par et entre («nous» ou «nos») et vous, personnellement et, le cas échéant, au nom de l'entité pour laquelle vous utilisez ce site Web (collectivement , "toi").
+Ces CGU régissent votre utilisation du site Web («Site Web») et des services que nous offrons sur le Site Web («Services»), veuillez donc les lire attentivement.
+EN ACCÉDANT OU EN UTILISANT TOUTE PARTIE DU SITE WEB, VOUS ACCEPTEZ D'AVOIR LU, COMPRIS ET ACCEPTÉ D'ÊTRE LIÉ PAR CES CGU.
+SI VOUS N'ACCEPTEZ PAS D'ÊTRE AINSI LIÉ, N'ACCÉDEZ PAS OU N'UTILISEZ PAS LA TECHNOLOGIE DU SITE WEB.INTERNET ET LES LOIS, RÈGLES ET RÈGLEMENTS APPLICABLES CHANGENT FRÉQUEMMENT.
+EN CONSÉQUENCE, NOUS NOUS RÉSERVONS LE DROIT D'APPORTER À TOUT MOMENT DES MODIFICATIONS À CES TOS. VOTRE UTILISATION CONTINUE DU SITE WEB CONSTITUE SON ACCEPTATION À TOUTE DISPOSITION NOUVELLE OU MODIFIÉE DE CES TOS QUI PEUT ÊTRE PUBLIÉE SUR LE SITE WEB.
+1. Utilisation du site Web (a) Admissibilité. Sauf dans les cas expressément prévus ci-dessous, les Services ne peuvent être utilisés que par des personnes pouvant former des contrats juridiquement contraignants en vertu de la loi applicable, et l'adhésion est limitée à ces personnes.
+Sans limitation, les mineurs sont interdits de devenir membres et, sauf indication contraire ci-dessous, d'utiliser des services payants. L'adhésion est définie en s'engageant dans un accord d'achat avec lequel vous, le consommateur, achetez l'un des produits trouvés sur le site Web. (B)
+Conformité. Vous devez vous conformer à toutes les conditions générales de ces CGU, aux politiques mentionnées ci-dessous et à toutes les lois, réglementations et règles applicables lorsque vous utilisez le site Web.
+(c) Licence et restrictions. Sous réserve des termes et conditions de ces CGU, vous bénéficiez par la présente d'un droit limité et non exclusif d'utiliser le contenu et les éléments du site Web dans le cours normal de votre utilisation du site Web.
+Vous ne pouvez pas utiliser la propriété intellectuelle d'un tiers sans l'autorisation écrite expresse du tiers concerné, sauf si la loi le permet.
+Le site Web conservera la propriété de ses droits de propriété intellectuelle et vous ne pouvez pas obtenir de droits sur celui-ci en vertu de ces CGU ou autrement, sauf comme expressément stipulé dans les présentes CGU.
+Vous n'aurez aucun droit d'utiliser, de copier, d'afficher, d'exécuter, de créer des œuvres dérivées à partir de, de distribuer, d'avoir distribué, de transmettre ou de sous-licencier à partir de matériaux ou de contenu disponibles sur le site Web, sauf indication expresse contraire dans les présentes CGU.
+Vous ne pouvez pas tenter de désosser une quelconque des technologies utilisées pour fournir les Services. (D) Conduite interdite.
+Dans votre utilisation du site Web et des services, vous ne pouvez pas: (i) porter atteinte à un brevet, une marque déposée, un secret commercial, un droit d'auteur, un droit de publicité ou tout autre droit d'une partie; (ii) diffamer, abuser, harceler, traquer toute personne ou perturber ou interférer avec la sécurité ou l'utilisation des Services, du site Web ou de tout site Web lié au site Web;
+(iii) interférer avec ou endommager le site Web ou les services, y compris, sans limitation, par l'utilisation de virus, annuler les bots, les chevaux de Troie, le code nuisible, les pings d'inondation, les attaques par déni de service, l'usurpation de paquets ou IP, le faux routage ou l'électronique informations sur l'adresse e-mail ou des méthodes ou technologies similaires;
+(iv) tenter d'utiliser le compte d'un autre utilisateur, usurper l'identité d'une autre personne ou entité, déformer votre affiliation avec une personne ou entité, y compris (sans limitation) le site Web ou créer ou utiliser une fausse identité; (v) tenter d'obtenir un accès non autorisé au site Web ou à des parties du site Web dont l'accès général est restreint;
+(vi) s'engager, directement ou indirectement, dans la transmission de «spam», de chaînes de lettres, de courrier indésirable ou de tout autre type de sollicitation non sollicitée; (vii) collecter, manuellement ou par le biais d'un processus automatique, des informations sur d'autres utilisateurs sans leur consentement exprès ou d'autres informations relatives au site Web ou aux services;
+(viii) utiliser des balises META ou tout autre "texte caché" utilisant le nom, des marques ou des noms de produits; (ix) faire de la publicité, offrir de vendre ou vendre des biens ou des services, sauf autorisation expresse du site Web; (x) se livrer à toute activité qui interfère avec la capacité d'un tiers à utiliser ou à apprécier le site Web ou les services; ou (xi) aider un tiers à s'engager dans toute activité interdite par les présentes CGU. (e)
+Autres utilisateurs. Si vous vous rendez compte d'une conduite qui viole ces CGU, nous vous encourageons à contacter le service client.
+Nous nous réservons le droit, mais n'aurons aucune obligation, de répondre à ces communications. Votre contenu.
+(a) une licence. En publiant, stockant ou transmettant tout contenu sur ou vers le site Web, vous nous accordez par la présente un droit perpétuel, mondial, non exclusif, libre de redevances, sous-licenciable, une licence et une licence pour utiliser, copier, afficher, exécuter, créer un dérivé les œuvres de, distribuent, ont distribué, transmis et sous-licencié ce contenu sous quelque forme que ce soit, sur tous les supports connus ou créés ci-après, partout dans le monde.
+Par la présente, vous renoncez irrévocablement à toute réclamation fondée sur des droits moraux ou des théories similaires, le cas échéant. (B) Contenu répréhensible. Nous n'avons pas la possibilité de contrôler la nature du contenu généré par l'utilisateur offert via le site Web.
+Vous êtes seul responsable de vos interactions avec les autres utilisateurs du site Web et de tout contenu que vous publiez.
+Nous ne serons pas responsables des dommages ou préjudices résultant de tout contenu ou de vos interactions avec d'autres utilisateurs du site Web.
+Nous nous réservons le droit, mais n'avons aucune obligation, de surveiller les interactions entre vous et les autres utilisateurs du site Web et de prendre toute autre mesure pour restreindre l'accès ou la disponibilité de tout matériel que nous ou un autre utilisateur du site Web pouvons considérer comme étant obscène, obscène, lascif, sale, excessivement violent, harcelant ou autrement répréhensible (y compris, sans s'y limiter, car il viole les présentes conditions d'utilisation). </p>
 
-<h2>3. Accuracy of Information.</h2>
-<p>We attempt to ensure that the information on the Web Site is complete
-and accurate; however, this information may contain typographical
-errors, pricing errors, and other errors or inaccuracies. We assume
-no responsibility for such errors and omissions, and reserve the right
-to: (i) revoke any offer stated on the Web Site; (ii) correct any errors,
-inaccuracies or omissions; and (iii) make changes to prices, content,
-promotions, product descriptions or specifications, or other information on
-the Web Site.</p>
+<h2>3. Exactitude des informations.</h2>
+<p>Nous essayons de nous assurer que les informations sur le site Web sont complètes et exactes; cependant, ces informations peuvent contenir des erreurs typographiques, des erreurs de tarification et d'autres erreurs ou inexactitudes.
+Nous n'assumons aucune responsabilité pour ces erreurs et omissions et nous nous réservons le droit de: (i) révoquer toute offre indiquée sur le site Web;
+(ii) corriger toute erreur, inexactitude ou omission; et (iii) apporter des modifications aux prix, au contenu, aux promotions, aux descriptions ou spécifications des produits ou à d'autres informations sur le site Web.</p>
 
-<h2>4. Sales Tax.</h2>
-<p>If you purchase any products available on the Web Site ("Products"), you
-will be responsible for paying any applicable sales tax indicated on the
-Web Site.</p>
+<h2>4. Taxe de vente.</h2>
+<p>Si vous achetez des produits disponibles sur le site Web (les «produits»), vous serez responsable du paiement de toute taxe de vente applicable indiquée sur le site Web.</p>
 
-<h2>5. Fraud.</h2>
-<p>We reserve the right, but undertake no obligation, to actively report
-and prosecute actual and suspected credit card fraud. We may, in our
-discretion, require further authorization from you such as a telephone
-confirmation of your order and other information. We reserve the right
-to cancel, delay, refuse to ship, or recall from the shipper any order if
-fraud is suspected. We capture certain information during the order
-process, including time, date, IP address, and other information that
-will be used to locate and identify individuals committing fraud. If any
-Web Site order is suspected to be fraudulent, we reserve the right, but
-undertake no obligation, to submit all records, with or without a subpoena,
-to all law enforcement agencies and to the credit card company for
-fraud investigation. We reserve the right to cooperate with authorities to
-prosecute offenders to the fullest extent of the law.
+<h2>5. Fraude.</h2>
+<p>Nous nous réservons le droit, mais n'assumons aucune obligation, de signaler et de poursuivre activement les fraudes sur les cartes de crédit, réelles ou suspectées. Nous pouvons, à notre discrétion, exiger une autorisation supplémentaire de votre part, telle qu'une confirmation téléphonique de votre commande et d'autres informations.
+Nous nous réservons le droit d'annuler, de retarder, de refuser d'expédier ou de rappeler à l'expéditeur toute commande si une fraude est suspectée. Nous capturons certaines informations au cours du processus de commande, notamment l'heure, la date, l'adresse IP et d'autres informations qui seront utilisées pour localiser et identifier les personnes qui commettent une fraude.
+Si une commande d'un site Web est suspectée d'être frauduleuse, nous nous réservons le droit, mais n'assumons aucune obligation, de soumettre tous les dossiers, avec ou sans assignation, à tous les organismes d'application de la loi et à la société émettrice de la carte de crédit pour enquête sur la fraude.
+Nous nous réservons le droit de coopérer avec les autorités pour poursuivre les contrevenants dans toute la mesure permise par la loi.
 </p>
 
-<h2>6. Intellectual Property Rights.</h2>
-<p>(a) Copyright. All materials on the Web Site, including without limitation,
-the logos, design, text, graphics, other files, and the selection and
-arrangement thereof are either owned by us or are the property of our
-suppliers or licensors or other companies. You may not use such materials
-without permission.(b) Trademarks. Ultimate CBD Lab is a trade
-name we own. The related design marks, and other trademarks on the
-Web Site are owned by us. Page headers, custom graphics, button icons
-and scripts are trademarks or trade dress we own. You may not use any of
-these trademarks, trade dress, or trade names without our express written
-permission.</p>
+<h2>6. Droits de propriété intellectuelle.</h2>
+<p>(a) Droits d'auteur. Tous les éléments du site Web, y compris, sans s'y limiter, les logos, la conception, le texte, les graphiques, les autres fichiers, ainsi que leur sélection et leur disposition, sont la propriété de nous ou sont la propriété de nos fournisseurs ou concédants de licence ou d'autres sociétés.
+Vous ne pouvez pas utiliser ces documents sans autorisation. (B) Marques. Ultimate CBD Lab est un nom commercial que nous possédons. Les marques de conception associées et autres marques déposées sur le site Web nous appartiennent. Les en-têtes de page, les graphiques personnalisés, les icônes de boutons et les scripts sont des marques commerciales ou des marques commerciales que nous possédons.
+Vous ne pouvez utiliser aucune de ces marques, habillages commerciaux ou noms commerciaux sans notre autorisation écrite expresse.</p>
 
-<h2>7. Third Party Websites.</h2>
-<p>may contain links to other websites on the Internet that are owned and
-operated by third parties. We do not control the information, products
-or services available on these third party websites. The inclusion of any
-link does not imply our endorsement of the applicable website or any
-association with the website's operators. Because we have no control
-over such websites and resources, you agree that we are not responsible
-or liable for the availability or the operation of such external websites,
-for any material located on or available from any such websites or for
-the protection of your data privacy by third parties. Any dealings with,
-or participation in promotions offered by, advertisers on the Website,
-including the payment and delivery of related goods or services, and any
-other terms, conditions, warranties or representations associated with
-such dealings or promotions, are solely between you and the applicable
-advertiser or other third party. You further agree that we shall not be
-responsible or liable, directly or indirectly, for any loss or damage caused
-by the use of or reliance on any such material available on or through any
-such site or any such dealings or promotions.</p>
+<h2>7. Sites Web tiers.</h2>
+<p>peut contenir des liens vers d'autres sites Web sur Internet qui sont détenus et exploités par des tiers. Nous ne contrôlons pas les informations, produits ou services disponibles sur ces sites Web tiers.
+L'inclusion de tout lien n'implique pas notre approbation du site Web applicable ou toute association avec les opérateurs du site Web.
+Parce que nous n'avons aucun contrôle sur ces sites Web et ressources, vous acceptez que nous ne sommes pas responsables de la disponibilité ou du fonctionnement de ces sites Web externes, de tout matériel situé sur ou disponible à partir de ces sites Web ou de la protection de la confidentialité de vos données. par des tiers.
+Toutes les transactions avec les annonceurs sur le site Web ou leur participation à des promotions, y compris le paiement et la livraison de biens ou de services connexes, et toutes autres modalités, conditions, garanties ou représentations associées à ces transactions ou promotions, sont uniquement entre vous et le annonceur concerné ou autre tiers.
+Vous convenez en outre que nous ne serons pas responsables, directement ou indirectement, de toute perte ou dommage causé par l'utilisation ou la dépendance à l'égard de tout matériel disponible sur ou via un tel site ou de telles transactions ou promotions.</p>
 
-<h2>8. Linking and Framing.</h2>
-<p>You may not deep link to portions of the Web Site, or frame, inline link, or
-similarly display any of our property, including, without limitation, the Web
-Site. You may not use any of our logos or other trademarks as part of a
-link without express written permission.</p>
+<h2>8. Liaison et cadrage.</h2>
+<p>Vous ne pouvez pas créer de liens profonds vers des parties du site Web ou un cadre, un lien en ligne ou afficher de manière similaire l'une de nos propriétés, y compris, sans s'y limiter, le site Web. Vous ne pouvez utiliser aucun de nos logos ou autres marques dans le cadre d'un lien sans autorisation écrite expresse.</p>
 
-<h2>9. Comments.</h2>
-<p>All comments, feedback, suggestions, ideas, and other submissions that
-you disclose, submit or offer to us in connection with your use of the Web
-Site will become our exclusive property. Such disclosure, submission
-or offer of any Comments shall constitute an assignment to us of all
-worldwide right, title and interest in all patent, copyright, trademark,
-and all other intellectual property and other rights whatsoever in and to
-the Comments and a waiver of any claim based on moral rights, unfair
-competition, breach of implied contract, breach of confidentiality, and any
-other legal theory. You will, at our cost, execute any documents to affect,
-record, or perfect such assignment. Thus, we will own exclusively all
-such right, title and interest and shall not be limited in any way in the use,
-commercial or otherwise, of any Comments. You should not submit any
-Comments to us if you do not wish to assign such rights to us. We are and
-will be under no obligation: (i) to maintain any Comments in confidence;
-(ii) to pay to you or any third party any compensation for any Comments;
-or (iii) to respond to any Comments. You are and shall remain solely
-responsible for the content of any Comments you make.</p>
+<h2>9. Commentaires.</h2>
+<p>Tous les commentaires, rétroactions, suggestions, idées et autres soumissions que vous divulguez, soumettez ou nous offrez en relation avec votre utilisation du site Web deviendront notre propriété exclusive. Cette divulgation, soumission ou offre de Commentaires constituera pour nous une cession de tous les droits, titres et intérêts mondiaux sur tous les brevets, droits d'auteur, marques de commerce et tous autres droits de propriété intellectuelle et autres droits que ce soit dans et sur les Commentaires et une renonciation à tout réclamation fondée sur les droits moraux, la concurrence déloyale, la violation du contrat implicite, la violation de la confidentialité et toute autre théorie juridique.
+Vous devrez, à nos frais, exécuter tous les documents pour affecter, enregistrer ou perfectionner une telle cession. Ainsi, nous détiendrons exclusivement tous ces droits, titres et intérêts et ne nous limiterons en aucune manière à l'utilisation, commerciale ou autre, de Commentaires.
+Vous ne devez pas nous soumettre de commentaires si vous ne souhaitez pas nous céder ces droits. Nous ne sommes et ne serons pas tenus: (i) de maintenir confidentiels les Commentaires; (ii) pour vous verser, à vous ou à tout tiers, une compensation pour tout Commentaire; ou (iii) pour répondre à tout commentaire.
+Vous êtes et resterez seul responsable du contenu des commentaires que vous faites.</p>
 
-<h2>10. Indemnification.</h2>
-<p>You agree to defend, indemnify and hold the Web Site, and its
-subsidiaries, affiliates, and their directors, officers, agents, members,
-shareholders, co-branders or other partners, employees, and Ad
-Partners harmless from any liabilities, losses, actions, damages, claims
-or demands, including reasonable attorneys' fees, costs and expenses,
-made by any third party directly or indirectly relating to or arising out of
-(a) content you provide to the Web Site or otherwise transmit or obtain
-through the Service, (b) your use of the Service, (c) your connection to the
-Service, (d) your violation of this Agreement, (e) your violation of any rights
-of another or (f) your failure to perform your obligations hereunder. If you
-are obligated to provide indemnification pursuant to this provision, we may,
-in our sole and absolute discretion, control the disposition of any Claim
-at your sole cost and expense. Without limitation of the foregoing, you
-may not settle, compromise, or in any other manner dispose of any Claim
-without our consent.</p>
+<h2>10. Indemnité.</h2>
+<p>Vous acceptez de défendre, d'indemniser et de tenir le site Web et ses filiales, sociétés affiliées et leurs administrateurs, dirigeants, agents, membres, actionnaires, co-marques ou autres partenaires, employés et partenaires publicitaires indemnes de toute responsabilité, perte, action , dommages, réclamations ou demandes, y compris les honoraires, frais et honoraires d'avocat raisonnables, effectués par un tiers directement ou indirectement en relation avec ou découlant de (a) le contenu que vous fournissez au site Web ou autrement transmis ou obtenu par le biais du service, (b) votre utilisation du Service, (c) votre connexion au Service, (d) votre violation du présent Accord, (e) votre violation de tout droit d'autrui ou (f) votre manquement à vos obligations en vertu des présentes.
+Si vous êtes obligé de fournir une indemnisation conformément à cette disposition, nous pouvons, à notre seule et absolue discrétion, contrôler la disposition de toute réclamation à vos frais et dépens. Sans limitation de ce qui précède, vous ne pouvez pas régler, compromettre ou autrement disposer de toute réclamation sans notre consentement.</p>
 
-<h2>11. DISCLAIMERS, EXCLUSIONS AND LIMITATIONS.</h2>
-<p>(a) DISCLAIMER OF WARRANTIES. WE PROVIDE THE WEB SITE, THE
-PRODUCTS, AND SERVICES ON AN "AS IS" AND "AS AVAILABLE"
-BASIS. WE DO NOT REPRESENT OR WARRANT THAT THE
-PRODUCTS, THE WEB SITE, THE SERVICES, ITS USE, ANY
-INFORMATION ON IT: (I) WILL BE UNINTERRUPTED OR SECURE, (II)
-WILL BE FREE OF DEFECTS, INACCURACIES OR ERRORS, (III) WILL
-MEET YOUR REQUIREMENTS, OR (IV) WILL OPERATE IN THE
-CONFIGURATION OR WITH OTHER HARDWARE OR SOFTWARE YOU
-USE. WE MAKE NO WARRANTIES OTHER THAN THOSE MADE
-EXPRESSLY IN THIS TOS, AND HEREBY DISCLAIM ANY AND ALL
-IMPLIED WARRANTIES, INCLUDING WITHOUT LIMITATION,
-WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE,
-MERCHANTABILITY AND NON-INFRINGEMENT.(b) DISCLAIMER OF
-FORWARD-LOOKING STATEMENTS. THIS WEB SITE MAY CONTAIN
-FORWARD-LOOKING STATEMENTS THAT REFLECT OUR CURRENT
-EXPECTATION REGARDING FUTURE EVENTS AND BUSINESS
-DEVELOPMENT. THE FORWARD-LOOKING STATEMENTS INVOLVE
-RISKS AND UNCERTAINTIES. ACTUAL DEVELOPMENTS OR
-RESULTS COULD DIFFER MATERIALLY FROM THOSE PROJECTED
-AND DEPEND ON A NUMBER OF FACTORS, SOME OF WHICH ARE
-OUTSIDE OUR CONTROL.(c) HEALTH RELATED INFORMATION. WE
-PROVIDE INFORMATION ON THE WEB SITE FOR INFORMATIONAL
-PURPOSES ONLY. IT IS NOT MEANT AS A SUBSTITUTE FOR THE
-ADVICE OF A DOCTOR OR OTHER HEALTH CARE PROFESSIONAL.
-YOU SHOULD NOT USE THE INFORMATION AVAILABLE ON OR
-THROUGH THE WEB SITE FOR DIAGNOSING OR TREATING A
-MEDICAL CONDITION. YOU SHOULD CAREFULLY READ ALL
-PRODUCT INSTRUCTIONS PRIOR TO USE.(d) PRODUCTS. ALL
-PRODUCTS ARE SUBJECT ONLY TO ANY APPLICABLE WARRANTIES
-OF THEIR RESPECTIVE MANUFACTURERS, DISTRIBUTORS, AND
-SUPPLIERS, IF ANY, PROVIDED IN THE PRODUCT PACKAGING. TO
-THE FULLEST EXTENT PERMISSIBLE BY APPLICABLE LAW, WE
-HEREBY DISCLAIM ALL WARRANTIES OF ANY KIND, EITHER
-EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY
-IMPLIED WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.
-WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE
-HEREBY EXPRESSLY DISCLAIM ALL LIABILITY FOR PRODUCT
-DEFECT OR FAILURE CLAIMS THAT ARE DUE TO NORMAL WEAR,
-PRODUCT MISUSE, ABUSE, PRODUCT MODIFICATION, IMPROPER
-PRODUCT SELECTION, NON-COMPLIANCE WITH ANY CODES, OR
-MISAPPROPRIATION (e) EXCLUSION OF DAMAGES. WE WILL NOT
-BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY
-CONSEQUENTIAL, INCIDENTAL, INDIRECT, PUNITIVE OR SPECIAL
-DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES RELATING
-TO LOST PROFITS, LOST DATA OR LOSS OF GOODWILL) ARISING
-OUT OF, RELATING TO OR CONNECTED WITH THE USE OF THE
-WEB SITE OR PRODUCTS, REGARDLESS OF THE CAUSE OF
-ACTION ON WHICH THEY ARE BASED, EVEN IF ADVISED OF THE
-POSSIBILITY OF SUCH DAMAGES OCCURRING.(f) LIMITATION OF
-LIABILITY. IN NO EVENT WILL OUR AGGREGATE LIABILITY ARISING
-FROM, RELATING TO, OR IN CONNECTION WITH THIS TOS
-(INCLUDING, WITHOUT LIMITATION, CLAIMS RELATING TO THE WEB
-SITE, OR THE PRODUCTS) EXCEED THE GREATER OF $100 OR THE
-AMOUNT THAT YOU PAID FOR THE PRODUCTS.</p>
+<h2>11. AVIS DE NON-RESPONSABILITÉ, EXCLUSIONS ET LIMITATIONS.</h2>
+<p>(a) EXCLUSION DE GARANTIES. NOUS FOURNISSONS LE SITE WEB, LES PRODUITS ET LES SERVICES SUR UNE BASE "TEL QUEL" ET "TEL QUE DISPONIBLE".
+NOUS NE REPRÉSENTONS NI NE GARANTISSONS QUE LES PRODUITS, LE SITE WEB, LES SERVICES, SON UTILISATION, LES INFORMATIONS QUI Y SONT: (I) SERONT ININTERROMPUS OU SÉCURISÉS, (II) SERONT EXEMPTS DE DÉFAUTS, D'INEXACTITUDES OU D'ERREURS, (III) RÉPONDRA À VOS EXIGENCES OU (IV) FONCTIONNERA DANS LA CONFIGURATION OU AVEC D'AUTRES MATÉRIELS OU LOGICIELS QUE VOUS UTILISEZ.
+NOUS NE FAISONS AUCUNE GARANTIE AUTRE QUE CEUX EXPRESSÉMENT PRÉSENTÉS DANS LES PRÉSENTES CONDITIONS D'UTILISATION ET DÉCLINONS PAR LA PRÉSENTE TOUTE GARANTIE IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES D'APTITUDE À UN USAGE PARTICULIER, DE QUALITÉ MARCHANDE ET DE NON-CONTREFAÇON.
+(b) EXCLUSION DE DÉCLARATIONS PROSPECTIVES. CE SITE WEB PEUT CONTENIR DES ÉNONCÉS PROSPECTIFS QUI RÉFLÉCHISSENT À NOS ATTENTES ACTUELLES CONCERNANT LES ÉVÉNEMENTS FUTURS ET LE DÉVELOPPEMENT D'AFFAIRES.
+LES ÉNONCÉS PROSPECTIFS IMPLIQUENT DES RISQUES ET DES INCERTITUDES. LES ÉVOLUTIONS OU LES RÉSULTATS RÉELS POURRAIENT DIFFÉRER DE FAÇON IMPORTANTE DE CEUX QUI SONT PROJETÉS ET DÉPENDENT D'UN NOMBRE DE FACTEURS, CERTAINS QUI SONT HORS DE NOTRE CONTRÔLE
+(c) INFORMATIONS RELATIVES À LA SANTÉ. NOUS FOURNISSONS DES INFORMATIONS SUR LE SITE WEB À DES FINS D'INFORMATION UNIQUEMENT.
+IL N'EST PAS SIGNIFIÉ COMME SUBSTITUT POUR LES CONSEILS D'UN MÉDECIN OU D'AUTRES PROFESSIONNELS DE LA SANTÉ.
+VOUS NE DEVEZ PAS UTILISER LES INFORMATIONS DISPONIBLES SUR OU PAR LE SITE WEB POUR DIAGNOSTIQUER OU TRAITER UNE CONDITION MÉDICALE.
+VOUS DEVEZ LIRE ATTENTIVEMENT TOUTES LES INSTRUCTIONS SUR LES PRODUITS AVANT UTILISATION. (D) PRODUITS. TOUS LES PRODUITS SONT SOUMIS UNIQUEMENT AUX GARANTIES APPLICABLES DE LEURS FABRICANTS, DISTRIBUTEURS ET FOURNISSEURS RESPECTIFS, LE CAS ÉCHÉANT, FOURNIS DANS L'EMBALLAGE DU PRODUIT.
+DANS TOUTE LA MESURE PERMISSIBLE PAR LA LOI APPLICABLE, NOUS DÉCLINONS PAR LA PRÉSENTE TOUTE GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS, SANS S'Y LIMITER, TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE, D'ABSENCE DE CONTREFAÇON OU D'ADÉQUATION À UN USAGE PARTICULIER.
+SANS LIMITER LA GÉNÉRALITÉ DE CE QUI PRÉCÈDE, NOUS DÉCLINONS EXPRESSÉMENT TOUTE RESPONSABILITÉ POUR LES DÉCLARATIONS DE DÉFAUT OU DE DÉFAILLANCE DU PRODUIT EN RAISON DE L'USURE NORMALE, DE LA MAUVAISE UTILISATION DU PRODUIT, DE L'ABUS, DE LA MODIFICATION DU PRODUIT, DE LA SÉLECTION DE PRODUITS INAPPROPRIÉE, DE LA NON-CONFORMITÉ AVEC TOUT CODES OU MISAP ) EXCLUSION DE DOMMAGES.
+NOUS NE SERONS PAS RESPONSABLES ENVERS VOUS OU TOUT TIERS POUR TOUT DOMMAGE CONSÉCUTIF, ACCESSOIRE, INDIRECT, PUNITIF OU SPÉCIAL (Y COMPRIS, SANS S'Y LIMITER, LES DOMMAGES LIÉS, AUX PERTES DE PROFITS, AUX PERTES DE DONNÉES OU À LA PERTE DE BIEN-ÊTRE) DÉCOULANT DE OU LIÉS À L'UTILISATION DU SITE WEB OU DES PRODUITS, QUEL QUE SOIT LA CAUSE D'ACTION SUR LAQUELLE ILS SONT FONDÉS, MÊME S'IL EST AVISÉ DE LA POSSIBILITÉ DE TELS DOMMAGES SURVENUS.
+(f) LIMITATION DE RESPONSABILITÉ. EN AUCUN CAS, NOTRE RESPONSABILITÉ GLOBALE DÉCOULANT DE, RELATIVE À OU EN RELATION AVEC LES PRÉSENTES CONDITIONS D'UTILISATION (Y COMPRIS, SANS S'Y LIMITER, LES RÉCLAMATIONS RELATIVES AU SITE WEB OU AUX PRODUITS) N'EXCÉDERA LE PLUS GRAND DE 100 $ OU LE MONTANT QUE VOUS AVEZ PAYÉ POUR LES PRODUITS .
+</p>
 
 <h2>12. Force Majeure.</h2>
-<p>You acknowledge and understand that if the Web Site is unable to provide
-the Products as a result of a force majeure event the Website will not be in
-breach of any of its obligations towards You under these Terms of Service.
-A force majeure event means any event beyond the control of the Website.
-THE WEBSITE SHALL NOT HAVE ANY LIABILITY TO YOU WHETHER
-IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), OR
-ANY OTHER FORM OF LIABILITY FOR FAILING TO PERFORM ITS
-OBLIGATIONS UNDER THIS AGREEMENT TO THE EXTENT THAT
-SUCH FAILURE IS AS A RESULT OF A FORCE MAJEURE EVENT.</p>
+<p>Vous reconnaissez et comprenez que si le site Web n'est pas en mesure de fournir les produits à la suite d'un événement de force majeure, le site Web ne manquera à aucune de ses obligations envers vous en vertu des présentes conditions d'utilisation.
+Un événement de force majeure désigne tout événement indépendant de la volonté du site Web. LE SITE WEB N'A AUCUNE RESPONSABILITÉ QUE CE SOIT DANS LE CONTRAT, LA GARANTIE, LE TORT (Y COMPRIS LA NÉGLIGENCE) OU TOUTE AUTRE FORME DE RESPONSABILITÉ POUR LE NON-RESPECT DE SES OBLIGATIONS EN VERTU DU PRÉSENT ACCORD DANS LA MESURE OU CETTE DÉFAILLANCE EST RÉSULTAT D'UNE FORCE MAJEURE UN ÉVÉNEMENT.</p>
 
-<h2>13. Domestic Use; Export Restriction.</h2>
-<p>We control the Web Site from our offices within the United States of
-America. We make no representation that the Web Site or its content
-(including, without limitation, any products or services available on
-or through the Web Site) are appropriate or available for use in other
-locations. Users who access the Web Site from outside the United States
-of America do so on their own initiative and must bear all responsibility for
-compliance with local laws, if applicable. Further, the United States export
-control laws prohibit the export of certain technical data and software to
-certain territories. No content from the Web Site may be downloaded in
-violation of United States law.</p>
+<h2>13. Usage domestique; Restriction d'exportation.</h2>
+<p>
+Nous contrôlons le site Web à partir de nos bureaux aux États-Unis d'Amérique.
+Nous ne faisons aucune déclaration que le site Web ou son contenu (y compris, sans s'y limiter, les produits ou services disponibles sur ou via le site Web) sont appropriés ou disponibles pour une utilisation dans d'autres endroits.
+Les utilisateurs qui accèdent au site Web en dehors des États-Unis d'Amérique le font de leur propre initiative et doivent assumer l'entière responsabilité du respect des lois locales, le cas échéant.
+De plus, les lois des États-Unis sur le contrôle des exportations interdisent l'exportation de certaines données techniques et logiciels vers certains territoires. Aucun contenu du site Web ne peut être téléchargé en violation de la loi américaine.</p>
 
-<h2>14. Arbitration.</h2>
-<p>All disputes arising out of or relating to this TOS (including its formation,
-performance or alleged breach) or your use of the Web Site will be
-exclusively resolved under confidential binding arbitration held in Las Vegas,
-NV before and in accordance with the Rules of the American Arbitration
-Association. The arbitrator's award will be binding and may be entered
-as a judgment in any court of competent jurisdiction. To the fullest extent
-permitted by applicable law, no arbitration under this TOS will be joined
-to an arbitration involving any other party subject to this TOS, whether
-through class arbitration proceedings or otherwise. Notwithstanding the
-foregoing, we will have the right to seek injunctive or other equitable relief
-in state or federal court located in Salt Lake City, Utah to enforce
-this TOS or prevent an infringement of a third party's rights. In the event
-equitable relief is sought, each party hereby irrevocably submits to the
-personal jurisdiction of such court.</p>
+<h2>14. Arbitrage.</h2>
+<p>
+Tous les litiges découlant de ou liés à ces CGU (y compris leur formation, leur exécution ou leur violation présumée) ou votre utilisation du site Web seront exclusivement résolus dans le cadre d'un arbitrage exécutoire confidentiel tenu à Las Vegas, NV avant et conformément aux règles du Association américaine d'arbitrage.
+La sentence arbitrale sera contraignante et pourra être inscrite comme jugement dans tout tribunal compétent. Dans toute la mesure permise par la loi applicable, aucun arbitrage en vertu des présentes CGU ne sera joint à un arbitrage impliquant toute autre partie soumise aux présentes CGU, que ce soit par le biais d'une procédure d'arbitrage collectif ou autrement.
+Nonobstant ce qui précède, nous aurons le droit de demander une injonction ou une autre réparation équitable devant un tribunal d'État ou fédéral situé à Salt Lake City, dans l'Utah, pour faire respecter ces CGU ou empêcher une violation des droits d'un tiers.
+Si une réparation équitable est demandée, chaque partie se soumet irrévocablement à la compétence personnelle de ce tribunal.</p>
 
-<h2>15. Waiver of Class Action Rights.</h2>
-<p>BY ENTERING INTO THIS TOS, YOU HEREBY IRREVOCABLY
-WAIVE ANY RIGHT YOU MAY HAVE TO JOIN CLAIMS WITH THOSE
-OF OTHERS IN THE FORM OF A CLASS ACTION OR SIMILAR
-PROCEDURAL DEVICE. ANY CLAIMS ARISING OUT OF, RELATING
-TO, OR CONNECTED WITH THIS TOS MUST BE ASSERTED
-INDIVIDUALLY.</p>
+<h2>15. Renonciation aux droits de recours collectif.</h2>
+<p>EN PARTICIPANT À CES MODALITÉS, VOUS RENONCEZ IRRÉVOCABLEMENT À TOUT DROIT QUE VOUS POURRIEZ AVOIR À JOINDRE À DES RÉCLAMATIONS AVEC CEUX D'AUTRES SOUS FORME DE RECOURS COLLECTIF OU DE DISPOSITIF DE PROCÉDURE SIMILAIRE. TOUTE RÉCLAMATION DÉCOULANT DE, RELATIVE À OU LIÉE À CES CONDITIONS D'UTILISATION DOIT ÊTRE GÉRÉE INDIVIDUELLEMENT.</p>
 
-<h2>16. Limitation of Actions.</h2>
-<p>You acknowledge and agree that, regardless of any statute or law to the
-contrary, any claim or cause of action you may have arising out of, relating
-to, or connected with your use of the Web Site, must be filed within one
-calendar year after such claim or cause of action arises, or forever be
-barred.</p>
+<h2>16. Limitation des actions.</h2>
+<p>Vous reconnaissez et acceptez que, indépendamment de toute loi ou loi contraire, toute réclamation ou cause d'action que vous pourriez avoir découlant de, liée ou liée à votre utilisation du site Web, doit être déposée dans un délai d'un an après une telle réclamation ou cause d'action naît ou est à jamais exclue.</p>
 
-<h2>17. Modification of Terms of Service.</h2>
-<p>We reserve the right to change or modify these Terms of Use at any time
-and your continued use of this site will be conditioned upon the Terms
-of Use in force at the time of your use. You can always check the most
-current version of the Terms of Use at this page.</p>
+<h2>17. Modification des conditions d'utilisation.</h2>
+<p>Nous nous réservons le droit de changer ou de modifier ces conditions d'utilisation à tout moment et votre utilisation continue de ce site sera conditionnée par les conditions d'utilisation en vigueur au moment de votre utilisation. Vous pouvez toujours consulter la version la plus récente des conditions d'utilisation sur cette page.</p>
 
-<h2>18. Termination.</h2>
-<p>We will have the right to terminate your access to the Web Site if we
-reasonably believe you have breached any of the terms and conditions
-of this TOS. Following termination, you will not be permitted to use the
-Web Site and we may, in our discretion, cancel any outstanding Product
-Orders. If your access to the Web Site is terminated, we reserve the right
-to exercise whatever means we deem necessary to prevent unauthorized
-access to the Web Site, including, but not limited to, technological barriers,
-IP mapping, and direct contact with your Internet Service Provider. This
-TOS will survive indefinitely unless and until we choose to terminate it,
-regardless of whether any account you open is terminated by you or us or
-ifyou have the right to access or use the Web Site.</p>
+<h2>18. Résiliation.</h2>
+<p>Nous aurons le droit de résilier votre accès au site Web si nous pensons raisonnablement que vous avez violé l'une des conditions générales de ces CGU.
+Après la résiliation, vous ne serez pas autorisé à utiliser le site Web et nous pourrons, à notre discrétion, annuler toute commande de produit en cours.
+Si votre accès au site Web est résilié, nous nous réservons le droit d'exercer tous les moyens que nous jugeons nécessaires pour empêcher l'accès non autorisé au site Web, y compris, mais sans s'y limiter, les barrières technologiques, la cartographie IP et le contact direct avec votre service Internet. Fournisseur.
+Ces CGU survivront indéfiniment à moins que et jusqu'à ce que nous choisissions de le résilier, que vous ouvriez ou fermiez un compte que vous ouvriez ou que vous ayez le droit d'accéder ou d'utiliser le site Web.</p>
 
-<h2>19. Left Intentionally Blank</h2>
-<p>20. This TOS contains the entire understanding between you and us regarding
-the use of the Web Site, and supersedes all prior and contemporaneous
-agreements and understandings between you and us relating thereto.</p>
+<h2>19. Laissé intentionnellement vide</h2>
+<p>20. Ces CGU contiennent l'intégralité de l'entente entre vous et nous concernant l'utilisation du site Web et remplacent tous les accords et ententes antérieurs et contemporains entre vous et nous s'y rapportant.</p>
 
-<h2>21. Additional Terms</h2>
-<p>This TOS will be binding upon each party hereto and its successors and
-permitted assigns, and governed by and construed in accordance with the
-laws of the State of Utah without regard for conflict of law principles.
-This TOS and all of your rights and obligations under them may not be
-assignable or transferable by you without our prior written consent. No
-failure or delay by a party in exercising any right, power or privilege under
-this TOS will operate as a waiver thereof, nor will any single or partial
-exercise of any right, power or privilege preclude any other or further
-exercise thereof or the exercise of any other right, power, or privilege
-under this TOS. You are an independent contractor, and no agency,
-partnership, joint venture, or employee-employer relationship is intended or
-created by this TOS. The invalidity or unenforceability of any provision of
-this TOS will not affect the validity or enforceability of any other provision
-of this TOS, all of which will remain in full force and effect.</p>
+<h2>21. Conditions supplémentaires</h2>
+<p>
+Les présentes CGU lieront chaque partie aux présentes et ses successeurs et ayants droit autorisés, et régies et interprétées conformément aux lois de l'État de l'Utah sans égard aux conflits de principes de droit.
+Ces CGU et tous vos droits et obligations en vertu de ceux-ci peuvent ne pas être cessibles ou transférables par vous sans notre consentement écrit préalable.
+Aucun manquement ou retard d'une partie dans l'exercice de tout droit, pouvoir ou privilège en vertu des présentes CGU ne constituera une renonciation à celui-ci, et aucun exercice unique ou partiel de tout droit, pouvoir ou privilège n'empêchera tout autre exercice ou exercice ultérieur de celui-ci ou de l'exercice de tout autre droit, pouvoir ou privilège en vertu des présentes CGU.
+Vous êtes un entrepreneur indépendant et aucune relation d'agence, de partenariat, de coentreprise ou d'employé à employeur n'est prévue ou créée par ces CGU.
+L'invalidité ou l'inapplicabilité de toute disposition de ces CGU n'affectera pas la validité ou l'applicabilité de toute autre disposition de ces CGU, qui resteront pleinement en vigueur.</p>
 
-<h2>22. Representations.</h2>
-<p>You hereby represent and warrant that:</p>
+<h2>22. Représentations.</h2>
+<p>Vous déclarez et garantissez par la présente que:</p>
 
-<p>(1) You are age eighteen (18) or older.<br>
-(2) You have read this Agreement and thoroughly understand the terms contained.</p>
+<p>(1) Vous avez dix-huit ans (18) ou plus.<br>
+(2) Vous avez lu cet accord et comprenez parfaitement les termes contenus.</p>
 
 <p>Email: <a href="mailto:support@ultimatecbdlabs.com"> support@ultimatecbdlabs.com</a></p>
-<p>Toll Free Customer Service phone: 1.877.882.1216</p>
+<p>Téléphone du service client sans frais: 1.877.882.1216</p>
 
 <br><br>
 
