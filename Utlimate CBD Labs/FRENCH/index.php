@@ -440,7 +440,7 @@ require_once 'includes/action.php'; index_seo_block();
 
 
 
-    	<p class="comnHdng">La promesse des Laboratoirs Ultimate CBD</p>
+    	<p class="comnHdng">La promesse des Laboratoires Ultimate CBD</p>
 
 
 

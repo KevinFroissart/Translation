@@ -622,7 +622,7 @@ $pr2 = 7;
 
 	<div class="container">
 
-    	<p class="comnHdng">La promesse des Laboratoirs Ultimate CBD</p>
+    	<p class="comnHdng">La promesse des Laboratoires Ultimate CBD</p>
 
         <p class="comn-subHdng detls-subHdng">Extraction Éthique, Formulation Puissante et Emballage de Qualité</p>
 

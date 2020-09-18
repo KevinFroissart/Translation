@@ -369,7 +369,7 @@
       </div>
       <div class="sectionFour">
          <div class="container">
-            <p class="comnHdng">La promesse des Laboratoirs CBD</p>
+            <p class="comnHdng">La promesse des Laboratoires CBD</p>
             <p class="comn-subHdng detls-subHdng">Extraction Éthique, Formulation Puissante et Emballage de Qualité</p>
             <ul class="s4-list">
                <li>
